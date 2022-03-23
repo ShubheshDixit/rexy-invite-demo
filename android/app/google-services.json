@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680624770804",
+    "project_id": "rexy-invite-demo",
+    "storage_bucket": "rexy-invite-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680624770804:android:2e6a0f76dc20d50d1158a1",
+        "android_client_info": {
+          "package_name": "codes.rexy.invites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680624770804-0oc539l8pm7i14gscb1lh7jv8fp9gfa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codes.rexy.invites",
+            "certificate_hash": "358993c006873d24325b29c1fdc3db3adabbf591"
+          }
+        },
+        {
+          "client_id": "680624770804-p111t7rhjanp1itshg1auchvd99lllgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8HZG2s8P8EO7NG-N9HpMghvyczdWWvaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680624770804-p111t7rhjanp1itshg1auchvd99lllgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
